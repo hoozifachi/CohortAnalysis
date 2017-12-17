@@ -17,7 +17,7 @@ From the Visual Studio menu select Test->Run->All Tests.
 
 ## Authors
 
-* **Jason Sweet** - *Initial work* - [PurpleBooth](https://github.com/hoozifachi)
+* **Jason Sweet** - *Initial work* - [hoozifachi](https://github.com/hoozifachi)
 
 ## License
 
